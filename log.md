@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: June 27, Monday
+### Day 1: May 02, Tuesday Year 2017
 
 **Today's Progress**: Worked on the basic algorithm scripting challenges in Free Code Camp.
 
